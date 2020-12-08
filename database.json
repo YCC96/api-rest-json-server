@@ -1,0 +1,37 @@
+{
+  "datos-personales": [
+    {
+      "id": "1",
+      "name": "Yori",
+      "firstSurname": "Cruz",
+      "lastSurname": "Cruz",
+      "age": "23",
+      "gender": "Maculino",
+      "mail": "yordy.cruz_96@outlook.es",
+      "telephone": "5611820006",
+      "updateDate": "hoy"
+    },
+    {
+      "id": "2",
+      "name": "Yori",
+      "firstSurname": "Cruz",
+      "lastSurname": "Cruz",
+      "age": "23",
+      "gender": "Maculino",
+      "mail": "yordy.cruz_96@outlook.es",
+      "telephone": "5611820006",
+      "updateDate": "hoy"
+    },
+    {
+      "id": "3",
+      "name": "Yori",
+      "firstSurname": "Cruz",
+      "lastSurname": "Cruz",
+      "age": "23",
+      "gender": "Maculino",
+      "mail": "yordy.cruz_96@outlook.es",
+      "telephone": "5611820006",
+      "updateDate": "hoy"
+    }
+  ]
+}
